@@ -80,7 +80,30 @@ img{
 }
 
 };
-    
+@media (max-width: 768px) and (max-width: 990px) { 
+    .firstrow{
+        flex-wrap: nowrap !important;
+        display: block !important;
+    } 
+
+img{
+    margin-top: 20px
+}
+
+};
+
+@media (max-width: 1200px) { 
+    .firstrow{
+        flex-wrap: nowrap !important;
+        display: block !important;
+    } 
+
+img{
+    margin-top: 20px
+}
+
+};
+
 
 
   
