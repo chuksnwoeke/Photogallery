@@ -80,7 +80,7 @@ img{
 }
 
 };
-@media (max-width: 768px) and (max-width: 1200px) { 
+@media (main-width: 768px) and (max-width: 1200px) { 
     .firstrow{
         flex-wrap: nowrap !important;
         display: block !important;
